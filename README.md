@@ -96,4 +96,4 @@ g++ -o dog_matching main.cpp -std=c++11 -lncurses
 
 ## Author
 
-- [Your Name] - Initial version 
+- [Shelx] - Initial version 
